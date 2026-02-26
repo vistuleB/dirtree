@@ -522,7 +522,7 @@ fn blocks_4_indentation(
 }
 
 /// Pretty-print a `DirTree` using a given level of indentation.
-/// The result is given as a List(String) to allow a possible 
+/// Returns a List(String) to allow a possible 
 /// consumer to more easily add extra margin or embed the tree 
 /// in a larger ASCII graphic.
 /// 
