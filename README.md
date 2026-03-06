@@ -16,13 +16,13 @@ pub fn main() -> Nil {
   let tree = dirtree.from_terminals(
     "../examples",
     [
-      "futuristic/pngs/png1.png",
-      "futuristic/svgs/svg1.png",
-      "empty-directory/",
-      "notes/README.md",
       "futuristic/pngs/png2.png",
-      "notes/old-README.md",
       "futuristic/svgs/svg2.png",
+      "futuristic/svgs/svg1.png",
+      "notes/README.md",
+      "futuristic/pngs/png1.png",
+      "empty-directory/",
+      "notes/old-README.md",
     ],
   )
 

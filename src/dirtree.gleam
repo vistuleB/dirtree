@@ -126,6 +126,7 @@ fn from_terminals_acc(
 ///     "notes/README.md",
 ///     "futuristic/pngs/png1.png",
 ///     "empty-directory/",
+///     "notes/old-README.md",
 ///   ],
 /// )
 /// 
